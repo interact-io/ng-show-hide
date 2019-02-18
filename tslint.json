@@ -1,7 +1,7 @@
 {
-  "extends": "../../tslint.json",
-  "rules": {
-    "directive-selector": [true, "attribute", "interact", "camelCase"],
-    "component-selector": [true, "element", "interact", "kebab-case"]
-  }
+    "extends": "../../tslint.json",
+    "rules": {
+        "directive-selector": [true, "attribute", "interact", "camelCase"],
+        "component-selector": [true, "element", "interact", "kebab-case"]
+    }
 }
