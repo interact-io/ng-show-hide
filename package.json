@@ -8,7 +8,7 @@
     },
     "keywords": [],
     "author": "Vu Duy Tuan Anh <vuduytuananh@gmail.com>",
-    "license": "private",
+    "license": "ISC",
     "bugs": {
         "url": "https://github.com/interact-io/ng-show-hide/issues"
     },
