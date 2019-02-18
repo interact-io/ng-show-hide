@@ -1,1 +1,1 @@
-export * from './lib/ng-show-hide.directive';
+export * from './lib/ng-show-hide.module';

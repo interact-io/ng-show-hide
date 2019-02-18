@@ -1,5 +1,5 @@
 import { async, TestBed } from '@angular/core/testing';
-import { NgShowHideModule } from './ng-show-hide.directive';
+import { NgShowHideModule } from './ng-show-hide.module';
 
 describe('NgShowHideModule', () => {
   beforeEach(async(() => {
