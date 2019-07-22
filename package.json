@@ -1,6 +1,6 @@
 {
     "name": "@interact.io/ng-show-hide",
-    "version": "0.0.3",
+    "version": "7.0.0",
     "desciption": "A structure Angular CLI directive to show or hide the element base on the argument passed into the directive",
     "repository": {
         "type": "git",
