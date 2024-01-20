@@ -1,6 +1,12 @@
 # ng-show-hide
-Angular CLI *showIf directive. The value of `condition` will be evaluate, in case `if(condition)` pass then show the element; otherwise, set style : `display: none;`
-.i.e: `<div *showIf="condition"> Bla bla </div>`
+A structure Angular CLI directive to show or hide the element base on the argument passed into the directive
 
-Branch 7.0.0 is pointing to angular v7.x.x
-Branch master (and 8.0.0) are pointing to angular v8.2.1
+## Usage
+
+   
+```
+    imports: [...,NgShowHideModule]
+    ...
+    <div *showIf="condition"> Bla bla </div>
+
+```
