@@ -3,8 +3,8 @@ import { Directive, TemplateRef, Renderer2, EmbeddedViewRef, Input, OnInit, View
 @Directive({
     selector: '[showIf]'
 })
-export class NgShowHideDirective implements OnInit{
-    showing: boolean;
+export class NgShowHideDirective implements OnInit {
+    showing = false;
     view: EmbeddedViewRef<any>;
     el;
     currentDisVal: string = "";
